@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/phone-project/static/css/main.c7d45d05.css",
+    "main.js": "/phone-project/static/js/main.458706a8.js",
+    "static/js/453.64be9eb2.chunk.js": "/phone-project/static/js/453.64be9eb2.chunk.js",
+    "static/media/video.mp4": "/phone-project/static/media/video.e6c1a78db4f18939e715.mp4",
+    "static/media/ipad pro.png": "/phone-project/static/media/ipad pro.7924dd73279229f0880d.png",
+    "static/media/iwatch.png": "/phone-project/static/media/iwatch.9aec3ab28288f77f1aa1.png",
+    "static/media/iphone 13promax.png": "/phone-project/static/media/iphone 13promax.32d5e2483228fed4154d.png",
+    "static/media/macbook air.png": "/phone-project/static/media/macbook air.8c38316cf9068cfed8e4.png",
+    "static/media/apple-watch-saries2.png": "/phone-project/static/media/apple-watch-saries2.666635984ee2521cba40.png",
+    "static/media/iphone 12 promax.png": "/phone-project/static/media/iphone 12 promax.edb995cab62d5f15b606.png",
+    "static/media/iphone 12.png": "/phone-project/static/media/iphone 12.90cc6525a59b7bb0556a.png",
+    "static/media/iphone 15promax.png": "/phone-project/static/media/iphone 15promax.0239b219fd8a9b5390d9.png",
+    "static/media/iphone se.png": "/phone-project/static/media/iphone se.a984aa843862425eac78.png",
+    "static/media/apple-watch-nike.png": "/phone-project/static/media/apple-watch-nike.9c816a5cd61fe78d013f.png",
+    "static/media/iphone 13.png": "/phone-project/static/media/iphone 13.a47eafe29eb9a8c50fe8.png",
+    "static/media/ipad air.png": "/phone-project/static/media/ipad air.a9928d89cd7d8f1af1f2.png",
+    "static/media/iphone 15.png": "/phone-project/static/media/iphone 15.2e844adce7261263e82b.png",
+    "static/media/iphone 14promax.png": "/phone-project/static/media/iphone 14promax.9454710847a1dabacdfa.png",
+    "static/media/apple-watch1.png": "/phone-project/static/media/apple-watch1.d131a569096d3cc16a02.png",
+    "static/media/iphone 14.png": "/phone-project/static/media/iphone 14.1063f952b05d18a485ec.png",
+    "static/media/ipad mini.png": "/phone-project/static/media/ipad mini.3a5e377171eacff2f9a2.png",
+    "static/media/macbook pro.png": "/phone-project/static/media/macbook pro.2b140c665baebe704a9b.png",
+    "static/media/canadia.png": "/phone-project/static/media/canadia.b9aa0505b6fb6c113026.png",
+    "static/media/Acelida.png": "/phone-project/static/media/Acelida.66887bb85dfe97ce73f3.png",
+    "static/media/Apple Watch Wallpaper Blue.jpeg": "/phone-project/static/media/Apple Watch Wallpaper Blue.ef7cfbc99f7d49bfb0c9.jpeg",
+    "static/media/Novo iPad Pro da Apple com tela de OLED Chegará em Maio.jpeg": "/phone-project/static/media/Novo iPad Pro da Apple com tela de OLED Chegará em Maio.e3a3493201ebd70d8e63.jpeg",
+    "static/media/MacBook Pro Mockup.jpeg": "/phone-project/static/media/MacBook Pro Mockup.f9bb32d897d41a19ec99.jpeg",
+    "static/media/picture iphone '.jpeg": "/phone-project/static/media/picture iphone '.20e52e830a952bc0c4f8.jpeg",
+    "static/media/apple.png": "/phone-project/static/media/apple.bed11f2823d53320bfe1.png",
+    "static/media/ABA.jpg": "/phone-project/static/media/ABA.e644778948188de30337.jpg",
+    "index.html": "/phone-project/index.html",
+    "main.c7d45d05.css.map": "/phone-project/static/css/main.c7d45d05.css.map",
+    "main.458706a8.js.map": "/phone-project/static/js/main.458706a8.js.map",
+    "453.64be9eb2.chunk.js.map": "/phone-project/static/js/453.64be9eb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7d45d05.css",
+    "static/js/main.458706a8.js"
+  ]
+}
